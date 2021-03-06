@@ -12,3 +12,7 @@ More Bla
 
 Even more bla
 bla...
+
+## Copyright
+
+bla
