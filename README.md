@@ -17,4 +17,4 @@ blablabla etc
 ## Copyright
 
 bla
-more more blas
+more more blas All rights reserved
